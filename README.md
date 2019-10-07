@@ -1,5 +1,4 @@
 # Data_Pipeline_with_Apache_Airflow
-Project 5 of the Udacity Nano Degree
 
 For this project, I worked with Apache Airflow to manage workflow of different data operators scheduled as per the dependency on each other represented by DAG (Directed Acyclic Graph) for extracting data stored in JSON and CSV file formats in S3, staging them into tables in Amazon Redshift, loading data into facts and dimensions tables of the data warehouse and checking the quality of data after each ETL cycle is completed.
 
